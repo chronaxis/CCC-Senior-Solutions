@@ -1,6 +1,7 @@
 // This solution AC'd on DMOJ
 
 // Strategy
+// Simple Math
 // 1 will always be a divisor, so start the sum at 1
 // Find all divisors from 2 to the square root (rounded down) of n with modulus
 // If the n%i == 0 then the number is divisible by i
