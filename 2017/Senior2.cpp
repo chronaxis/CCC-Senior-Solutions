@@ -1,4 +1,4 @@
-// This code has AC'd on DMOJ
+// This solution has AC'd on DMOJ
 #include <iostream>
 #include <vector>
 #include <algorithm>
