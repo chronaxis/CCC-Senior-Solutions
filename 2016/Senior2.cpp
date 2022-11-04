@@ -1,4 +1,4 @@
-// This solution AC'd on DMOj
+// This solution AC'd on DMOJ
 #include <stdio.h>
 #include <algorithm>
 #include <vector>
